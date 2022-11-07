@@ -1,0 +1,10 @@
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\bin\Debug\klavyeden girilen sayının iki fazlasınıgösteren.exe.config
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\bin\Debug\klavyeden girilen sayının iki fazlasınıgösteren.exe
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\bin\Debug\klavyeden girilen sayının iki fazlasınıgösteren.pdb
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\obj\Debug\klavyeden girilen sayının iki fazlasınıgösteren.csprojAssemblyReference.cache
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\obj\Debug\klavyeden_girilen_sayının_iki_fazlasınıgösteren.Form1.resources
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\obj\Debug\klavyeden_girilen_sayının_iki_fazlasınıgösteren.Properties.Resources.resources
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\obj\Debug\klavyeden girilen sayının iki fazlasınıgösteren.csproj.GenerateResource.cache
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\obj\Debug\klavyeden girilen sayının iki fazlasınıgösteren.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\obj\Debug\klavyeden girilen sayının iki fazlasınıgösteren.exe
+C:\Users\sns_k\source\repos\klavyeden girilen sayının iki fazlasınıgösteren\klavyeden girilen sayının iki fazlasınıgösteren\obj\Debug\klavyeden girilen sayının iki fazlasınıgösteren.pdb
